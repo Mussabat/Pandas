@@ -1,0 +1,9 @@
+Dataframe is a kind of excel sheet
+It run fast
+can perform more systematic analyses of huge data.
+series - it is a one dimentional array with indexes
+it stores a single column or row of data in a datarame
+
+dataFrame = A two dimentional data structure with columns of potentially different type of data
+
+view -> pointining at that location
